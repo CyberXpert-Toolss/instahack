@@ -43,7 +43,7 @@ MENSAGENS = {
         'titulo': '💰 FERRAMENTA PAGA',
         'mensagem': '⚠️ ESTA FERRAMENTA É PAGA!',
         'explicacao': 'Para comprar esta ferramenta, chame no WhatsApp:',
-        'whatsapp': '📞 WhatsApp: +55 15 98182-5685',
+        'whatsapp': '📞 WhatsApp: +55 88 9922-5362',
         'como_comprar': '📌 COMO COMPRAR:',
         'passo1': '1️⃣ Chame no WhatsApp:',
         'passo2': '2️⃣ Informe qual ferramenta deseja comprar',
